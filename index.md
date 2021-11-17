@@ -1,5 +1,9 @@
 ## ⋈ Mr. Veato
 
-### Support or Contact
+### Contact
+
+denis.chebotaevq@gmail.com
 
 [Upwork](https://www.upwork.com/freelancers/mrveato)
+
+[Telegram](https://t.me/MrVeato)
