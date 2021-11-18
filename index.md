@@ -2,7 +2,7 @@
 kyiv
 
 ##### 📫
-how to reach me
+how to reach me:
 
 [denis.chebotaevq@gmail.com](mailto:denis.chebotaevq@gmail.com)
 
@@ -11,4 +11,5 @@ how to reach me
 [upwork](https://www.upwork.com/freelancers/mrveato)
 
 @mrveato
+
 * * *
