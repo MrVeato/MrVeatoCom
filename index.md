@@ -11,7 +11,7 @@ kyiv
 
 [upwork](https://www.upwork.com/freelancers/mrveato)
 
-@mrveato
+`@mrveato`
 
 * * *
 
