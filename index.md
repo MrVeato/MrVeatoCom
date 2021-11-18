@@ -1,8 +1,8 @@
 #### denys chebotaiev
 kyiv
 
-##### 📫
-contact:
+##### contact
+:
 
 [denis.chebotaevq@gmail.com](mailto:denis.chebotaevq@gmail.com)
 
@@ -13,3 +13,5 @@ contact:
 @mrveato
 
 * * *
+
+🗿
