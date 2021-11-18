@@ -2,7 +2,7 @@
 kyiv
 
 ##### contact
-:
+⌄ 
 
 [denis.chebotaevq@gmail.com](mailto:denis.chebotaevq@gmail.com)
 
