@@ -1,9 +1,9 @@
-DENYS CHEBOTAIEV
+denys chebotaiev
 
-📫 How to reach me:
+📫 how to reach me:
 
 [denis.chebotaevq@gmail.com](mailto:denis.chebotaevq@gmail.com)
 
-[Telegram](https://t.me/MrVeato)
+[telegram](https://t.me/MrVeato)
 
-[Upwork](https://www.upwork.com/freelancers/mrveato)
+[upwork](https://www.upwork.com/freelancers/mrveato)
