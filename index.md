@@ -1,7 +1,3 @@
----
-layout: home
----
-
 **denys chebotaiev**
 
 📫 how to reach me:
@@ -11,5 +7,3 @@ layout: home
 [telegram](https://t.me/MrVeato)
 
 [upwork](https://www.upwork.com/freelancers/mrveato)
-
-000
