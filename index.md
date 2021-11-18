@@ -12,4 +12,4 @@ layout: home
 
 [upwork](https://www.upwork.com/freelancers/mrveato)
 
-<script src="http://code.jquery.com/jquery-3.6.0.min.js"></script> <script> var x = document.getElementsByClassName("site-footer"); setTimeout(() => { x[0].remove(); }, 10); </script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
