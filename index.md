@@ -1,6 +1,6 @@
-## ⋈ Mr. Veato0
+## ⋈ Mr. Veato
 
-### Contactj
+### Contact
 
 denis.chebotaevq@gmail.com
 
