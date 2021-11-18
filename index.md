@@ -8,4 +8,4 @@
 
 [upwork](https://www.upwork.com/freelancers/mrveato)
 
-@MrVeato
+@mrveato
