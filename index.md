@@ -2,7 +2,7 @@
 kyiv
 
 ##### 📫
-how to reach me:
+contact:
 
 [denis.chebotaevq@gmail.com](mailto:denis.chebotaevq@gmail.com)
 
