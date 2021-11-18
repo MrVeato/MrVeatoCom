@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-
 **denys chebotaiev**
 
 📫 how to reach me:
