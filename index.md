@@ -1,5 +1,4 @@
 ![Ico](https://www.upwork.com/profile-portraits/c1GLyb2cCqDM1ZJvWAWXxvWlKOeYj2HBFbMVqYSEuczxtBxrhiePSvbdDFVW17BBee)
-![Cursor](https://c.tenor.com/62n-LxY_c4sAAAAC/writing-typing.gif)
 #### denys chebotaiev
 kyiv
 
@@ -13,6 +12,62 @@ kyiv
 [upwork](https://www.upwork.com/freelancers/mrveato)
 
 `@mrveato`
+
+.blinking-cursor {
+  font-weight: 100;
+  font-size: 30px;
+  color: #2E3D48;
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: black;
+  }
+}
 
 * * *
 
