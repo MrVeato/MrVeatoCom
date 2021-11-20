@@ -18,7 +18,9 @@ header h2 {
 }
 
 hr {
-  background: white 50%;
+  height: 0.1px;
+  line-height: 0.1px;
+  background: white 50% 0 no-repeat;
 }
 
 body {
