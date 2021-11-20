@@ -65,7 +65,7 @@ header {
 
 @keyframes "blink" {
   from, to {
-    color: transparent;
+    color: #ececec;
   }
   50% {
     color: black;
@@ -74,7 +74,7 @@ header {
 
 @-moz-keyframes blink {
   from, to {
-    color: transparent;
+    color: #ececec;
   }
   50% {
     color: black;
@@ -83,7 +83,7 @@ header {
 
 @-webkit-keyframes "blink" {
   from, to {
-    color: transparent;
+    color: #ececec;
   }
   50% {
     color: black;
@@ -92,7 +92,7 @@ header {
 
 @-ms-keyframes "blink" {
   from, to {
-    color: transparent;
+    color: #ececec;
   }
   50% {
     color: black;
@@ -101,7 +101,7 @@ header {
 
 @-o-keyframes "blink" {
   from, to {
-    color: transparent;
+    color: #ececec;
   }
   50% {
     color: black;
