@@ -1,5 +1,5 @@
 ![Ico](https://www.upwork.com/profile-portraits/c1GLyb2cCqDM1ZJvWAWXxvWlKOeYj2HBFbMVqYSEuczxtBxrhiePSvbdDFVW17BBee)
-#### pe denys chebotaiev
+#### denys chebotaiev
 kyiv
 
 ##### contact <
