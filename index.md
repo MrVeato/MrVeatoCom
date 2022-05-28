@@ -11,6 +11,8 @@ kyiv
 
 [upwork](https://www.upwork.com/freelancers/mrveato)
 
+[twitter](https://twitter.com/MrVeato)
+
 `@mrveato`
 
 <span class="blinking-cursor">|</span>
