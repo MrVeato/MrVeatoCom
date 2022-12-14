@@ -4,8 +4,6 @@ kyiv, ukraine
 
 [upwork](https://www.upwork.com/freelancers/mrveato)
 
-[cv](Denys_Chebotaiev_cv.pdf)
-
 ##### contact
 ⌄
 
