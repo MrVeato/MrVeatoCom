@@ -9,7 +9,7 @@ kyiv, ukraine
 
 [denis.chebotaevq@gmail.com](mailto:denis.chebotaevq@gmail.com)
 
-[telegram](https://t.me/mrveato)
+[telegram](https://t.me/MrVeato)
 
 [twitter](https://twitter.com/MrVeato)
 
