@@ -1,1 +1,1 @@
-### bassist, game developer, top rated freelancer ⋈
+### musician, game developer, top rated freelancer ⋈
