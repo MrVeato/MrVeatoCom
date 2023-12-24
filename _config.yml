@@ -2,3 +2,5 @@ theme: jekyll-theme-tactile
 title: ⋈ mr. veato
 description: musician, game developer, top rated freelancer
 show_downloads: false
+github:
+  is_project_page: false
