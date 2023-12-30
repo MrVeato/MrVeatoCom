@@ -1,4 +1,4 @@
-![Ico](https://www.upwork.com/profile-portraits/c1GLyb2cCqDM1ZJvWAWXxvWpe_lOTko1btOf8xNZVoB1FTwjp0Ik9cSGGIhXhwtbF-)
+<img src="img.jpeg" width="107" height="160">
 #### denys chebotaiev
 kyiv, ukraine
 
