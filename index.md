@@ -2,12 +2,12 @@
 #### denys chebotaiev
 kyiv, ukraine
 
-[upwork](https://www.upwork.com/freelancers/mrveato)
-
-##### contact:
+#### contact:
 
 [denis.chebotaevq@gmail.com](mailto:denis.chebotaevq@gmail.com)
 
 [telegram](https://t.me/MrVeato)
 
 [twitter](https://twitter.com/MrVeato)
+
+[upwork](https://www.upwork.com/freelancers/mrveato)
