@@ -1,4 +1,4 @@
-<img src="img.jpeg" width="107" height="160">
+<img src="img.jpeg" width="75" height="112">
 #### denys chebotaiev
 kyiv, ukraine
 
