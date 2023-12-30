@@ -12,11 +12,3 @@ kyiv, ukraine
 [telegram](https://t.me/MrVeato)
 
 [twitter](https://twitter.com/MrVeato)
-
-`@mrveato`
-
-<span class="blinking-cursor">|</span>
-
-* * *
-
-🗿
