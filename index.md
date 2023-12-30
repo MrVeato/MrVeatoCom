@@ -4,8 +4,7 @@ kyiv, ukraine
 
 [upwork](https://www.upwork.com/freelancers/mrveato)
 
-##### contact
-⌄
+##### contact:
 
 [denis.chebotaevq@gmail.com](mailto:denis.chebotaevq@gmail.com)
 
