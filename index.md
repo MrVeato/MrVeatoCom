@@ -13,8 +13,8 @@ kyiv, ukraine
 [linkedin](https://www.linkedin.com/in/mrveato/)
 
 [upwork](https://www.upwork.com/freelancers/mrveato)
-
-<div style="text-align: center;">
+<br>
+<div>
     <a href="https://kerosenelampsecrets.com">
         <img class="circular--square" style="vertical-align: middle; border-radius: 50%;" src="Kerosene Lamp.png" width="55" height="55" alt="Kerosene Lamp Secrets">
 Kerosene Lamp Secrets
