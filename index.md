@@ -10,4 +10,6 @@ kyiv, ukraine
 
 [twitter](https://twitter.com/MrVeato)
 
+[linkedin](https://www.linkedin.com/in/mrveato/)
+
 [upwork](https://www.upwork.com/freelancers/mrveato)
