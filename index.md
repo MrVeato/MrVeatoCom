@@ -2,6 +2,8 @@
 #### denys chebotaiev
 kyiv, ukraine
 
+I'm a game design and development expert with a focus on Unity and Construct 3.
+
 #### contact:
 
 [denis.chebotaevq@gmail.com](mailto:denis.chebotaevq@gmail.com)
